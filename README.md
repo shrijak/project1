@@ -2,6 +2,8 @@
 
 ## Harvard University CS50 Web Programming with Python and JavaScript
 
+## Django
+
 # index.html
 
 ### - This page is the first page which is seen by the user
