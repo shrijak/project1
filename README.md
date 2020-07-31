@@ -4,6 +4,8 @@
 
 ## Django
 
+## Page Video: https://drive.google.com/file/d/1dBbGa1LnWph5CU1-eXjBZx34XGOIIC0N/view?usp=sharing
+
 # index.html
 
 ### - This page is the first page which is seen by the user
