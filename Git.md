@@ -8,5 +8,5 @@ Git is a version control tool that can be used to keep track of versions of a so
 
 
 
-GitHub is an online service for hosting git repositories.
+GitHub is an online service for hosting git repositories. 
 
