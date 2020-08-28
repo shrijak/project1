@@ -4,7 +4,7 @@
 
 ## Django
 
-## Page Link: https://wiki-shrijak.herokuapp.com/
+## Page Video: https://drive.google.com/file/d/1dBbGa1LnWph5CU1-eXjBZx34XGOIIC0N/view?usp=sharing
 
 # index.html
 
